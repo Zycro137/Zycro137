@@ -50,3 +50,23 @@ Proyectos de mi perfil a Analizar:
   * **Capturas visuales:** El documento actual es puro texto. Se debe agregar al menos una captura de pantalla del "Hero" (portada) de la página web terminada para que sea visualmente atractivo.
   * **Instrucciones de uso local:** Falta una sección breve que explique cómo correr la web localmente (por ejemplo, "Clonar el repo y abrir `index.html` con Live Server").
   * **Configuración de repositorio:** Faltan los "Topics" (`html5`, `css3`, `responsive`), el archivo `.gitignore` y especificar explícitamente la licencia del código.
+
+---
+
+## Requisitos del perfil de GitHub
+
+Con base en los perfiles analizados y el diagnóstico de mis propios repositorios, he definido los siguientes requisitos que guiarán el diseño de mi portafolio:
+
+### Requisitos Funcionales (Qué debe mostrar el perfil)
+* **RF-01 (Presentación inmediata):** El perfil debe mostrar claramente en los primeros segundos mi nombre, mi rol formativo (Estudiante de Computación / Desarrollador) y mi enfoque principal.
+* **RF-02 (Sección Sobre Mí):** Debe incluir una descripción breve que hable sobre mi metodología de trabajo, intereses y el valor que aporto al trabajar en equipo.
+* **RF-03 (Habilidades técnicas):** El perfil debe listar mis conocimientos tecnológicos agrupados por categoría (Lenguajes, Bases de Datos, Herramientas Web) de manera visual pero sin saturar la pantalla.
+* **RF-04 (Proyectos destacados):** Debe exhibir mis proyectos principales (como *Frutalízate* y la *Landing Page de Cairo Gym*). Cada proyecto debe detallar: nombre, problema que resuelve, tecnologías utilizadas y el enlace directo al repositorio.
+* **RF-05 (Canales de contacto):** Debe ofrecer una sección visible al final con enlaces directos para contactarme (correo institucional, LinkedIn, etc.).
+
+### Requisitos No Funcionales (Calidad, formato y legibilidad)
+* **RNF-01 (Uso de Markdown estándar):** Todo el perfil debe estar desarrollado utilizando la sintaxis nativa de Markdown, evitando el uso excesivo de HTML/CSS para asegurar la compatibilidad total con GitHub.
+* **RNF-02 (Adaptabilidad a temas claro/oscuro):** Los elementos visuales, tablas e iconos deben tener buen contraste y ser perfectamente legibles tanto en el modo claro como en el modo oscuro del navegador.
+* **RNF-03 (Rendimiento de carga):** Se priorizará el uso de texto e insignias estáticas ligeras, evitando depender de widgets o APIs de terceros que ralenticen la carga del perfil o se rompan si el servidor externo falla.
+* **RNF-04 (Accesibilidad móvil):** La estructura y jerarquía de la información deben permitir una lectura cómoda desde la aplicación móvil de GitHub, sin que las tablas o imágenes rompan el ancho de la pantalla.
+* **RNF-05 (Mantenibilidad):** La arquitectura del documento debe ser modular (mediante subtítulos claros), permitiendo agregar nuevos proyectos futuros de manera rápida y sin desarmar el diseño del resto del perfil.
