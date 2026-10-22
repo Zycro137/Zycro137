@@ -29,3 +29,24 @@
 | **Historial de commits** | Frecuente y detallado. Usa convenciones semánticas (`feat:`, `fix:`, `docs:`) lo que facilita entender la evolución de la herramienta. | Mensajes de commit directos y en modo imperativo. El historial es lineal, limpio y sin mensajes de prueba o vacíos. |
 | **Gestión de Issues, PRs y Releases** | Uso intensivo de Issues para reportes de la comunidad, Pull Requests revisados y uso de *Releases* con notas de versión detalladas. | Estricto control de calidad. Las contribuciones se hacen por PRs y las versiones (*Releases*) se publican siguiendo el versionado semántico estricto. |
 | **Estructura de carpetas** | Separación clara entre el código fuente (`src/`), las pruebas de interfaz y la documentación. | Muy limpia. El código principal está separado de la carpeta de pruebas (`test/`) y la documentación interna. |
+
+---
+
+## Diagnóstico de los repositorios propios a destacar
+
+Proyectos de mi perfil a Analizar:
+### Proyecto 1: `Proyecto-Frutalízate` (Sistema de Gestión y Base de Datos)
+* **Estado actual:** Es un sistema funcional de gestión por consola para una tienda de jugos, respaldado por una base de datos robusta con triggers, vistas y procedimientos almacenados[cite: 5]. Cuenta con manuales detallados en formato PDF[cite: 5, 20].
+* **Diagnóstico y elementos faltantes:**
+  * **README.md:** Actualmente la documentación está "atrapada" en archivos PDF[cite: 5, 20]. Se debe redactar un `README.md` extrayendo la introducción del sistema[cite: 7], los roles de usuario[cite: 27, 28, 29] y las dependencias técnicas.
+  * **Capturas de pantalla:** El manual de usuario ya posee recortes claros de la interfaz de consola[cite: 9, 10, 14]. Estas imágenes deben exportarse e incrustarse directamente en el README.
+  * **Instrucciones de instalación:** Falta indicar cómo un tercero puede ejecutar el proyecto (por ejemplo, cómo importar el script SQL de la base de datos y cómo compilar/ejecutar el menú principal).
+  * **Configuración del repositorio:** Añadir un archivo `.gitignore` (para ignorar compilados o credenciales de conexión), establecer una licencia y agregar "Topics" (ej. `sql`, `database-management`, `cli-app`).
+
+### Proyecto 2: `Proyecto-2-DAWM` (Landing Page Cairo Gym)
+* **Estado actual:** Es una página web comunitaria construida con HTML5 y CSS3 usando la plantilla "Massively"[cite: 30]. Ya tiene un `README.md` muy bien estructurado con el contexto, la tabla de secciones y la justificación de la plantilla[cite: 30].
+* **Diagnóstico y elementos faltantes:**
+  * **Enlace a demostración en vivo:** Aunque el repositorio existe, falta desplegar la página usando **GitHub Pages** y colocar esa URL pública en la sección "About" del repositorio y al inicio del README.
+  * **Capturas visuales:** El documento actual es puro texto[cite: 30]. Se debe agregar al menos una captura de pantalla del "Hero" (portada) de la página web terminada para que sea visualmente atractivo.
+  * **Instrucciones de uso local:** Falta una sección breve que explique cómo correr la web localmente (por ejemplo, "Clonar el repo y abrir `index.html` con Live Server").
+  * **Configuración de repositorio:** Faltan los "Topics" (`html5`, `css3`, `responsive`), el archivo `.gitignore` y especificar explícitamente la licencia del código.
