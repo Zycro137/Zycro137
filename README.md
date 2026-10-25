@@ -7,7 +7,7 @@
 
 ---
 ## Sobre mí
-Soy Santiago Maldonado, estudiante de la ESPOL en la ingeniería de Ciencia de Datos e Inteligencia Artificial. Mi experiencia técnica abarca el desarrollo de aplicaciones móviles (Android Studio) y páginas web sencillas, la programación de videojuegos con el motor Unity (C#) y el análisis de datos. Combino la lógica de la programación con la creatividad de la producción audiovisual, buscando siempre construir soluciones más eficientes, interactivas y que aporten valor real al usuario.
+Soy Santiago Maldonado, estudiante de la ESPOL en la ingeniería de Ciencia de Datos e Inteligencia Artificial. Mi experiencia técnica abarca el desarrollo de aplicaciones móviles (Android Studio) y páginas web sencillas, la programación de videojuegos con el motor Unity (C#) y con Phaser (JavaScript) y el análisis de datos. Combino la lógica de la programación con la creatividad de la producción audiovisual, buscando siempre construir soluciones más eficientes, interactivas y que aporten valor real al usuario.
 
 ---
 ## Habilidades y Tecnologías
@@ -34,3 +34,12 @@ Soy Santiago Maldonado, estudiante de la ESPOL en la ingeniería de Ciencia de D
 ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31.svg?style=for-the-badge&logo=obs-studio&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+---
+## Proyectos Destacados
+
+<div align="center">
+  
+  [![Cairo Gym](https://github-readme-stats.vercel.app/api/pin/?username=Zycro137&repo=PROYECTO-2-DAWM&theme=dark)](https://github.com/Zycro137/Proyecto-2-DAWM.git)
+  [![Cake Quest](https://github-readme-stats.vercel.app/api/pin/?username=Zycro137&repo=Proyecto-Frutalizate&theme=dark)](https://github.com/Zycro137/Proyecto-Frutalizate.git)
+
+</div>
