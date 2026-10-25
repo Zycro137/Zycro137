@@ -39,7 +39,7 @@ Soy Santiago Maldonado, estudiante de la ESPOL en la ingeniería de Ciencia de D
 
 <div align="center">
   
-  [![Cairo Gym](https://github-readme-stats.vercel.app/api/pin/?username=Zycro137&repo=PROYECTO-2-DAWM&theme=dark)](https://github.com/Zycro137/Proyecto-2-DAWM.git)
-  [![Cake Quest](https://github-readme-stats.vercel.app/api/pin/?username=Zycro137&repo=Proyecto-Frutalizate&theme=dark)](https://github.com/Zycro137/Proyecto-Frutalizate.git)
+  [![Cairo Gym](https://github-readme-stats.vercel.app/api/pin/?username=Zycro137&repo=PROYECTO-2-DAWM&theme=dark&v=1)](https://github.com/Zycro137/Proyecto-2-DAWM.git)
+  [![Cake Quest](https://github-readme-stats.vercel.app/api/pin/?username=Zycro137&repo=Proyecto-Frutalizate&theme=dark&v=1)](https://github.com/Zycro137/Proyecto-Frutalizate.git)
 
 </div>
