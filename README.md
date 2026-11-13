@@ -37,9 +37,14 @@ Soy Santiago Maldonado, estudiante de la ESPOL en la ingeniería de Ciencia de D
 ---
 ## Proyectos Destacados
 
-<div align="center">
-  
-  [![Cairo Gym](https://github-readme-stats.vercel.app/api/pin/?username=Zycro137&repo=PROYECTO-2-DAWM&theme=dark&v=1)](https://github.com/Zycro137/Proyecto-2-DAWM.git)
-  [![Cake Quest](https://github-readme-stats.vercel.app/api/pin/?username=Zycro137&repo=Proyecto-Frutalizate&theme=dark&v=1)](https://github.com/Zycro137/Proyecto-Frutalizate.git)
+### Dashboard (https://github.com/Zycro137/dashboard)
+Estructura inicial de un dashboard del clima que usa React, TypeScript y MUI, mediante componentes funcionales reutilizables que se intercomunican.
 
-</div>
+### TubeTrack (https://github.com/Zycro137/TubeTrack)
+Enlistador de tarjetas de canciones desarrollado en StackBlitz usando TypeScript, CSS y HTML.
+
+### Cairo Gym (https://github.com/Zycro137/Proyecto-2-DAWM)
+Proyecto que, mediante un levantamiento y análisis de datos, promueve la integración de la comunidad en prácticas deportivas dentro del Gimnasio Cairo Gym. Desarrollado con una plantilla de HTML5 UP! usando SCSS, CSS, JavaScript, HTML y recopilación de datos en Google Sheets.
+
+### Frutalízate (https://github.com/Zycro137/Proyecto-Frutalizate.git)
+Sistema para registrar, consultar, actualizar y eliminar datos de clientes, productos y proveedores para la tienda de jugos "Frutalízate". Desarrollado con Python para la interfaz por consola y MySQL como base de datos.
